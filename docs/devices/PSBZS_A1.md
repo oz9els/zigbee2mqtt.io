@@ -17,8 +17,9 @@ description: "Integrate your Lidl PSBZS A1 via Zigbee2MQTT with whatever smart h
 
 ## Notes
 
-None
-
+## Pairing
+Wake the device, by pressing the `valve open` button, the blue light turns on.
+Press and hold the `valve open` button for about 5 seconds, then red lights turn on, and parring starts.
 
 ## Exposes
 
